@@ -4,5 +4,13 @@
 
 运行结果如下：
 
+（15696/256=62）
+
 ![image](https://github.com/SE-superGroup/week6/blob/master/01.PNG)
+
+时间显示如下：
+
+![image](https://github.com/SE-superGroup/week6/blob/master/00.PNG)
+
+256*256分块方式占据了程序的主要运行时间，imgXlen*256的时间则短得多。
 
